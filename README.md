@@ -4,12 +4,12 @@ A Python utility to generate high-quality speech audio from text using **Kokoro*
 
 ## Features
 
-- 🎙️ **High-quality voice synthesis** using Kokoro (82M parameters)
-- 📚 **Resumable processing** — if interrupted, re-run to resume from the last completed chunk
-- 🔗 **Seamless stitching** with optional crossfade between chunks
-- 📊 **Sentence-aware chunking** — automatically splits text at sentence boundaries for natural breaks
-- 🚀 **GPU-accelerated** when available (CUDA support)
-- 📦 **Multiple voices** supported (e.g., `af_heart`, `am_michael`, etc.)
+- **High-quality voice synthesis** using Kokoro (82M parameters)
+- **Resumable processing** — if interrupted, re-run to resume from the last completed chunk
+- **Seamless stitching** with optional crossfade between chunks
+- **Sentence-aware chunking** — automatically splits text at sentence boundaries for natural breaks
+- **GPU-accelerated** when available (CUDA support)
+- **Multiple voices** supported (e.g., `af_heart`, `am_michael`, etc.)
 
 ## Prerequisites
 
